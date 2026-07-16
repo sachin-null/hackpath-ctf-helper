@@ -189,9 +189,8 @@ hackpath-ctf-helper/
 
 **Sachin Ser** | [HackPath](https://github.com/sachin-null)
 
-[![GitHub](https://img.shields.io/badge/GitHub-sachin--null-black?style=flat-square&logo=github)](https://github.com/sachin-null)
-
-[![Instagram](https://www.instagram.com/_sachin_ser_90?igsh=MWg2eTQxcTZhaGRkeA==)
+- GitHub: [@sachin-null](https://github.com/sachin-null)
+- Instagram: [@sachin_ser](https://www.instagram.com/_sachin_ser_90?igsh=MWg2eTQxcTZhaGRkeA==)
 
 ---
 
